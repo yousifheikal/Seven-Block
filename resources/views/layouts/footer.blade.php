@@ -1,0 +1,3 @@
+<!-- Footer opened -->
+
+<!-- Footer closed -->

@@ -1,0 +1,33 @@
+<?php
+
+return [
+
+    'review' => 'التقيمم',
+    'txt' => 'جهز منزلك بالدهان والأثاث والتشطيبات بأعلى جودة وأنسب سعر. مع سيفن بلوكس، إذا كنت تريد التواصل معنا اضغط هنا',
+    'Availability' => 'التوفر',
+    'Contact_Us' => 'للتواصل',
+    'Add to Cart' => 'اضافة الي السلة',
+    'description' => 'الوصف',
+    'Important Information' => 'معلومات مهمة',
+    'Reviews' => 'للتعليق',
+    'Building' => 'البناء',
+    'Move' => 'الحركة',
+    'Furniture' => 'الأثاث',
+    'Building Stage' => 'مراحل البناء',
+    'Rated' => 'تقيمك',
+    'out of' => 'من',
+    'Client' => 'العميل',
+    'Select rating' => 'أختر تقيمما',
+    'Your review' => 'تعليقك',
+    'You should' => 'يجب ',
+    'login' => 'تسجيل الدخول',
+    'register' => "انشاء حساب",
+    'or' => 'او',
+    'to review your opinion' => 'للتعبير عن رائيك',
+    'Submit' => 'ارسال',
+    'Wishlist' => 'قائمة الرغبات',
+    'With Rashed you are safe...' => 'مع سيفن بلوكس انت في أمان',
+    'Designs' => 'التصاميم',
+    'Show Designs' => 'عرض التصاميم',
+    'Show Wishlist !' => 'عرض قائمة الرغبات !',
+];
