@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Seven Block</span></h1>
+<h1 align="center" id="title">Seven Blocks</span></h1>
 
 <p align="center"><img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/ac774a27-9b84-4d77-974a-e4c8593646df" alt="project-image" width="400"></p>
 
