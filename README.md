@@ -37,7 +37,7 @@ designs. There is a Dashboard to control all site..</p>
 
 
 <h2> Documentation</h2>
-[Postman doucments link](https://sevenblock.net/)
+[Website link](https://sevenblock.net/)
 
 <h2>💻 Built with</h2>
 
