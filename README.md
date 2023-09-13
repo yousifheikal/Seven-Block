@@ -3,13 +3,13 @@
 <p align="center"><img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/ac774a27-9b84-4d77-974a-e4c8593646df" alt="project-image" width="400"></p>
 
 <h2>Introduction:</h2>
-<p id="description">The Seven-Block project built with Laravel & Mysql The site is used to display general and customer
-designs and to see the customer's latest updates by
+<p id="description">The Seven-Block project built with Laravel & Mysql, site used to display general and customer
+designs and to see the customer's latest updates projects by
 using livewire. The site also includes two languages,
-Arabic and English. It has many features, for example,
+Arabic and English, multi vendor. It has many features, for example,
 adding to the shopping cart, admiring the designs,
 then referring to them at another time, booking
-designs , and also commenting on public and private
+designs, and also commenting on public and private
 designs. There is a Dashboard to control all site..</p>
 
 <h2>Project Screenshots:</h2>
