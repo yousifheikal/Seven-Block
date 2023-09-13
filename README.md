@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Seven Block</span></h1>
 
-<p align="center"><img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/ac774a27-9b84-4d77-974a-e4c8593646df" alt="project-image" width="600"></p>
+<p align="center"><img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/ac774a27-9b84-4d77-974a-e4c8593646df" alt="project-image" width="400"></p>
 
 <h2>Introduction:</h2>
 <p id="description">The Seven-Block project built with Laravel & Mysql The site is used to display general and customer
