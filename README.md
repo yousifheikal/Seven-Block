@@ -17,17 +17,18 @@ designs. There is a Dashboard to control all site..</p>
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/abc70a46-023e-451a-a49b-a6da65ae3d7b" width="200" height="150/">
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/dacc973a-db1b-49e3-9591-fd44485a7ce7" width="200" height="150/">
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/d300704d-133d-4b58-915f-28b32ab16ffe" width="200" height="150/">
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/73c7d455-c84a-4e19-ba8f-30b7bdd8aa7f" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/9cb75a94-89c9-4664-ae0f-2894ed626725" width="200" height="150/">
 
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/92c603ed-1164-4d12-bbd1-7a62b29f034f" width="200" height="150/">
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/ea7e3822-17af-42d8-85f5-a187827eef02" width="200" height="150/">
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/680349b4-70ee-4e5a-afac-eecfd9569466" width="200" height="150/">
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/47516970-91a7-4ba9-8ed9-e287ac80a6f2" width="200" height="150/">
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/b2f4152f-bc72-4d31-8579-2af354367770" width="200" height="150/">
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/a094bd58-c9e7-49f7-98fb-ee7eb811c16a" width="200" height="150/">
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/b65b7172-ef41-4845-9b6b-2252e34fc0f0" width="200" height="150/">
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/3a0ac8c8-c906-457c-b8a6-ac3851a49cc4" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/1aefa3f4-b4a8-448a-a38d-706d564183a6" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/462cceec-20ed-4be6-a32f-a4abe49501ce" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/48bc387e-c211-4036-8931-3181c75b43ec" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/a8b753b7-4d79-4045-8ae4-e85e43258c95" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/7923b444-2697-4f48-a6c9-13bfbf93b908" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/62d16559-c8e9-4a7f-9aa6-b6a38b59c24d" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/d4820e74-bc05-4117-a14e-be1878d2a98b" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/db0e8a9a-b7aa-48be-a532-94c118902395" width="200" height="150/">
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/0debfef5-8397-4086-94fc-0849793cf126" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/cec17320-e2ce-4767-9e8a-280007101998" width="200" height="150/">
 
 
 <h2>🧐 Features</h2>
