@@ -1,5 +1,5 @@
 <h1 align="center" id="title">Seven Blocks</span></h1>
-https://sevenblock.net
+<p align="center" id="title">https://sevenblock.net</p>
 <p align="center"><img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/ac774a27-9b84-4d77-974a-e4c8593646df" alt="project-image" width="400"></p>
 
 <h2>Introduction:</h2>
@@ -64,7 +64,7 @@ ex-
 
 
 <h2> Documentation</h2>
-[Website link](https://sevenblock.net/)
+[Website link](https://sevenblock.net)
 
 <h2>💻 Built with</h2>
 
