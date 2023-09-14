@@ -27,7 +27,7 @@ designs. There is a Dashboard to control all site..</p>
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/62d16559-c8e9-4a7f-9aa6-b6a38b59c24d" width="200" height="150/">
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/d4820e74-bc05-4117-a14e-be1878d2a98b" width="200" height="150/">
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/db0e8a9a-b7aa-48be-a532-94c118902395" width="200" height="150/">
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/0debfef5-8397-4086-94fc-0849793cf126" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/6584cd8f-1fb9-4423-9561-cbbe0b7b3c32" width="200" height="150/">
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/cec17320-e2ce-4767-9e8a-280007101998" width="200" height="150/">
 
 
