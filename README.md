@@ -14,9 +14,9 @@ designs. There is a Dashboard to control all site..</p>
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/7ac64bb6-f425-4bd2-bc9b-9391f46ef1fc" width="200" height="150/">
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/2b976c04-39a4-44fa-a2a3-a98c63b85674" width="200" height="150/">
-<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/739e5468-ea0b-42c2-a1bc-11d3cb6b0165" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/abc70a46-023e-451a-a49b-a6da65ae3d7b" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/dacc973a-db1b-49e3-9591-fd44485a7ce7" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/d300704d-133d-4b58-915f-28b32ab16ffe" width="200" height="150/">
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/73c7d455-c84a-4e19-ba8f-30b7bdd8aa7f" width="200" height="150/">
 
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/92c603ed-1164-4d12-bbd1-7a62b29f034f" width="200" height="150/">
