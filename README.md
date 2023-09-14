@@ -27,6 +27,7 @@ designs. There is a Dashboard to control all site..</p>
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/a094bd58-c9e7-49f7-98fb-ee7eb811c16a" width="200" height="150/">
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/b65b7172-ef41-4845-9b6b-2252e34fc0f0" width="200" height="150/">
 <img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/3a0ac8c8-c906-457c-b8a6-ac3851a49cc4" width="200" height="150/">
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/0debfef5-8397-4086-94fc-0849793cf126" width="200" height="150/">
 
 
 <h2>🧐 Features</h2>
@@ -34,6 +35,32 @@ designs. There is a Dashboard to control all site..</p>
 * Authentication: Authentication feature enables users to create an account, login, and manage their credentials securely. It includes functionalities such as user registration, login,logout, password reset, and authentication token management, all functionalities i used via laravel jetstream Auth. Users can access protected resources and perform actions based on their authorization level.
 
 * User Management: The user management feature allows administrators to manage user accounts, roles, and permissions. It includes functionalities such as creating user profiles, updating user information, enabling or disabling user accounts, and assigning appropriate roles and permissions.
+
+* Dashboard : use to manage website 
+ex-
+1: CRUD => User
+2: CRUD => Categories
+3: CRUD => Designs
+4: CRUD =>  special client & normal client designs
+5: Show all orders
+6: Show all contact-us
+7: Time Sheet, use to management Employee
+
+* Chat: The chat feature allows employees to communicate with each other and admins to communicate with employee
+
+* Categories : Category feature organizes products. It allows creating, retrieving, updating and deleting categories. Products can be associated with one or multiple categories, allowing users to browse and filter products based on their category preferences
+
+* Design: Designs management feature enables administrators to manage the design available in the seven blocks platform. It includes functionalities such as adding new design, updating design, associating design with categories ,enabling delete design,retrieve similar designs and popular designs, and sorting designs price for desire user from lowest to highest vice versa.
+
+* Reviews Management: The review management feature allows users to leave reviews and ratings for designs they have purchased or used, but you must login in website before rating any product.
+
+* Cart Management: The cart management feature allows users to add designs to their shopping cart, update quantities, remove items, and calculate the total price. It provides functionality to persist the cart data across sessions, allowing users to resume their shopping experience at a later time.
+
+* Wishlist Management: The wishlist management feature allows users to add designs to their wishlist, display all design in wishlist, remove designs, save this wislist each user, allowing users to resume their shopping experience at a later time.
+
+* Order Management: The order management feature, as described in the previous response, allows users to place orders, manage their orders, and track the status of their purchases. It includes functionalities such as order placement, order history, order status tracking, order confirmation, and communication.
+
+* Contact Us: The Contact Us management feature allows you to know any problems you have and let us know about them
 
 
 <h2> Documentation</h2>
@@ -46,7 +73,10 @@ Technologies and tools used in the project:
 *   Laravel 
 *   Mysql
 *   Laravel jetstream
+*   Livewire
 *   Design Pattern(Repository Pattern)
+*   Pagination
+*   Sessions
 *   Faker
 *   Validation
 *   Hash, bcrypt
