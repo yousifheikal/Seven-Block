@@ -82,6 +82,7 @@ Technologies and tools used in the project:
 *   Faker
 *   Validation
 *   Hash, bcrypt
+*   Pusher
 
 <h2>🛠️ Installation Steps:</h2>
 
