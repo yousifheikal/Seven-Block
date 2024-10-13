@@ -1,6 +1,5 @@
 <h1 align="center" id="title">Seven Blocks</span></h1>
-<p align="center" id="title">https://sevenblock.net</p>
-<p align="center"><img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/85e6cde3-541f-462d-b172-c2ac501086c9" alt="project-image" width="400"></p>
+<img src="https://github.com/yousifheikal/Seven-Block/assets/96316936/85e6cde3-541f-462d-b172-c2ac501086c9" alt="project-image" width="400"></p>
 
 
 <h2>Introduction:</h2>
